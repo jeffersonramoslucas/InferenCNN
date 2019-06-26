@@ -4,8 +4,8 @@ Uma Biblioteca para Inferência de CNN's em CPU, GPU e FPGA's, utilizando o fram
 
 Keras-Models: Scripts em python para treinar os modelos.
 
-Canonic: Implementação da Biblioteca sem nenhum tipo de paralelismo.
+Canonic: Implementação da Biblioteca em C/C++ sem nenhum tipo de paralelismo.
 
-OCL: Implementação em OpenCL para CPU's e GPU's
+OCL: Implementação da Biblioteca  em OpenCL para CPU's e GPU's
 
-OCL_FPGA: Implementação em OpenCL para FPGA's
+OCL_FPGA: Implementação da Biblioteca  em OpenCL para FPGA's
